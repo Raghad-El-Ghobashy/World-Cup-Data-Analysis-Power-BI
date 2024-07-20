@@ -12,7 +12,7 @@ This project involves an in-depth analysis of World Cup data, providing insightf
 
 - **Total Champions:** 22 🏆
 - **Total Runners Up:** 11 🥈
-- **First Champion:** Argentina 🇦🇷
+- **Last Champion:** Argentina 🇦🇷
 
 ## 🌐 Data Source :
 
