@@ -8,11 +8,6 @@ This project involves an in-depth analysis of World Cup data, providing insightf
 - ETL Tool : Power Query
 - Analysis and Dashboards Tool : Power BI
 
-## 📊 Data Analyzed
-
-- **Total Champions:** 22 🏆
-- **Total Runners Up:** 11 🥈
-- **Last Champion:** Argentina 🇦🇷
 
 ## 🌐 Data Source :
 
@@ -33,6 +28,10 @@ Data for this project was extracted from the [FIFA World Cup Wikipedia page](htt
 7. **Replacing Necessary Values:** Replaced values as needed for consistency.
 
 ## 🔍 Analysis Process :
+
+- **Total Champions:** 22 🏆
+- **Total Runners Up:** 11 🥈
+- **Last Champion:** Argentina 🇦🇷
 
 1. **Championships Hosted by Host Country:** Visualized the number of times the championship was hosted by each country on a map.
 2. **Top 5 Countries Winning the World Cup:** Identified the top 5 countries with the most World Cup wins.
