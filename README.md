@@ -1,1 +1,35 @@
-# World-Cup-Data-Analysis
+🌍 World Cup Data Analysis Project
+
+📝 Overview
+This project involves an in-depth analysis of World Cup data, providing insightful visualizations and reports on various statistics related to the history of the World Cup.
+
+📊 Data Analyzed
+Total Champions: 22 🏆
+Total Runners Up: 11 🥈
+First Champion: Argentina 🇦🇷
+
+🌐 Data Source:
+Wikipedia: FIFA World Cup
+
+📥 Extracting Data:
+Data for this project was extracted from the FIFA World Cup Wikipedia page.
+
+🧹 Cleaning and Preparing Process:
+1-Changing Table Name: Adjusted table names for clarity.
+2-Set First Row as Header: Ensured the first row of the data is used as headers.
+3-Changing Column Names: Renamed columns to meaningful names.
+4-Deleting Unnecessary Columns: Removed columns that were not needed for the analysis.
+5-Changing Data Types: Corrected data types for proper analysis.
+6-Fixing Nulls and Blanks: Addressed missing values and blanks.
+7-Replacing Necessary Values: Replaced values as needed for consistency.
+
+🔍 Analysis Process
+1-Championships Hosted by Host Country: Visualized the number of times the championship was hosted by each country on a map.
+2-Top 5 Countries Winning the World Cup: Identified the top 5 countries with the most World Cup wins.
+3-Number of Teams in Each Championship: Counted the number of teams that participated in each championship.
+4-Data Table: Presented all relevant fields in a properly ordered table.
+5-Filter by Year: Enabled filtering of the dashboard by the year of the championship.
+
+📊 Visualization Process
+Report 1: Detailed analysis and visual representation of the number of champions by hosts.
+Report 2: Visualization showcasing the top 5 countries winning the World Cup.
