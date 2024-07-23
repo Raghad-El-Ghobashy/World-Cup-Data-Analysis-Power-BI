@@ -1,4 +1,4 @@
-# 🌍 World Cup Data Analysis Project
+# 🌍 World Cup Data Analysis
 
 ## 📝 Overview :
 
